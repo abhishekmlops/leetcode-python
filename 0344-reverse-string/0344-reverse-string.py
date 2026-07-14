@@ -15,7 +15,7 @@ class Solution:
 
     Space Complexity:
         O(1)
-        - Only two pointer variables are used.
+        - Only two pointer variables is used.
     """
         
         left = 0 
