@@ -9,5 +9,7 @@ class Solution:
             
             if nums[right] != 0 :
 
-                nums[left], nums[right] = nums[right], nums[left]
+                if left != right :
+
+                  nums[left], nums[right] = nums[right], nums[left]
                 left += 1
