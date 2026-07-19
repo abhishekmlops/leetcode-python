@@ -115,6 +115,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -126,6 +127,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
+| [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -156,6 +159,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
