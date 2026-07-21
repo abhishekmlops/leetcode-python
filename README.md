@@ -173,4 +173,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
